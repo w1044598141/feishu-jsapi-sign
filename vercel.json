@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/sign/route.js": {
+      "runtime": "edge"
+    }
+  }
+}
